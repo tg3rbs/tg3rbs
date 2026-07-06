@@ -1,6 +1,6 @@
 # 33
 
-Welcome to my GitHub.
+Building cryptography and software projects with a focus on mathematics, algorithms, and cybersecurity.
 
 ## Interests
 - Cryptography
@@ -12,26 +12,25 @@ Welcome to my GitHub.
 
 ## Featured Projects
 
-### Classical Cipher Toolkit (Python)
-Implementation of five historical encryption algorithms:
-- Caesar Cipher
-- Vigenère Cipher
-- Affine Cipher
-- Atbash Cipher
-- Rail Fence Cipher
+### 🔐 [Classical Cipher Toolkit](https://github.com/tg3rbs/classical-cipher-toolkit)
+Python implementation of five classical ciphers:
+- Caesar
+- Vigenère
+- Affine
+- Atbash
+- Rail Fence
 
-### RSA Cryptography Toolkit (C++)
-Implementation of RSA public-key cryptography featuring:
-- RSA key generation
+### 🔑 [RSA Cryptography Toolkit](https://github.com/tg3rbs/rsa-cryptography-toolkit)
+C++ implementation of RSA public-key cryptography featuring:
+- Key generation
 - Encryption
 - Decryption
 - File encryption
-- Saved key support
+- Saved keys
 
 ## Current Goal
 
-Building increasingly advanced cryptography projects while expanding my knowledge of mathematics, cybersecurity, and software engineering.## Hi there 👋
-
+Building increasingly advanced cryptography projects while expanding my knowledge of mathematics, cybersecurity, software engineering, and modern cryptographic algorithms.
 <!--
 **tg3rbs/tg3rbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
