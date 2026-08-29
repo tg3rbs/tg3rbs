@@ -28,6 +28,18 @@ C++17 password security application combining authentication, cryptographic key 
 - SHA-256 file-integrity verification
 - Master-password changes with vault re-encryption
 
+### [AES File Encryption Tool](https://github.com/tg3rbs/aes-file-encryption)
+
+Python command-line encryption tool using AES-256-GCM authenticated encryption and password-based key derivation.
+
+- AES-256-GCM authenticated encryption
+- PBKDF2-HMAC-SHA256 key derivation
+- Secure message and file encryption
+- Random salts and nonces
+- Password validation
+- Authentication-failure detection
+- File overwrite protection
+
 ### [Linux Security Lab](https://github.com/tg3rbs/linux-security-lab)
 
 Bash-based Linux security auditing tool for automated system, SSH, permissions, and network security assessment.
@@ -67,7 +79,7 @@ Python implementation of five classical cryptographic systems.
 
 **Languages:** C++, Python, Java, Bash
 
-**Cryptography & Security:** AES-256-GCM, PBKDF2, RSA, SHA-256, authenticated encryption, hashing, salting, key derivation, SSH hardening, Linux permissions, security auditing
+**Cryptography & Security:** AES-256-GCM, PBKDF2-HMAC-SHA256, RSA, SHA-256, authenticated encryption, hashing, salting, key derivation, SSH hardening, Linux permissions, security auditing
 
 **Tools:** Linux, Git, GitHub, OpenSSL, OpenSSH, Nmap, Visual Studio Code
 
