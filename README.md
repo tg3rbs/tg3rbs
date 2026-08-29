@@ -10,6 +10,7 @@ Building cryptography and security-focused software with an emphasis on mathemat
 - Algorithms
 - C++
 - Python
+- Bash
 
 ## Featured Projects
 
@@ -26,6 +27,19 @@ C++17 password security application combining authentication, cryptographic key 
 - Credential creation, editing, deletion, and duplicate prevention
 - SHA-256 file-integrity verification
 - Master-password changes with vault re-encryption
+
+### [Linux Security Lab](https://github.com/tg3rbs/linux-security-lab)
+
+Bash-based Linux security auditing tool for automated system, SSH, permissions, and network security assessment.
+
+- SSH hardening and configuration auditing
+- Public-key authentication and root-login checks
+- User and file-permission security analysis
+- World-writable file and directory detection
+- Nmap service and TCP port scanning
+- System resource monitoring
+- Automated PASS, WARNING, and INFO security assessments
+- Full-system audit runner with generated reports
 
 ### [RSA Cryptography Toolkit](https://github.com/tg3rbs/rsa-cryptography-toolkit)
 
@@ -51,15 +65,15 @@ Python implementation of five classical cryptographic systems.
 
 ## Technical Focus
 
-**Languages:** C++, Python, Java
+**Languages:** C++, Python, Java, Bash
 
-**Cryptography & Security:** AES-256-GCM, PBKDF2, RSA, SHA-256, authenticated encryption, hashing, salting, key derivation, secure random generation
+**Cryptography & Security:** AES-256-GCM, PBKDF2, RSA, SHA-256, authenticated encryption, hashing, salting, key derivation, SSH hardening, Linux permissions, security auditing
 
-**Tools:** Git, GitHub, OpenSSL, Visual Studio Code
+**Tools:** Linux, Git, GitHub, OpenSSL, OpenSSH, Nmap, Visual Studio Code
 
 ## Current Goal
 
-Building increasingly advanced cryptography and security software while developing a deeper understanding of the mathematics, algorithms, and engineering behind modern cryptographic systems.
+Building increasingly advanced cryptography and cybersecurity projects while developing deeper expertise in secure systems, algorithms, Linux security, and the mathematics behind modern cryptographic systems.
 <!--
 **tg3rbs/tg3rbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
