@@ -8,6 +8,10 @@ Theoretical Mathematics student at The Ohio State University building cryptograp
 
 C++17 password manager implementing account authentication, PBKDF2 key derivation, AES-256-GCM encrypted credential vaults, secure password generation, and integrity verification.
 
+### [Pi-hole Network Security Lab](https://github.com/tg3rbs/pihole-network-security-lab)
+
+Raspberry Pi 4 network security lab using Pi-hole for DNS-level filtering and network monitoring, with hands-on Linux administration, SSH, DNS, Ethernet networking, and network troubleshooting.
+
 ### [Linux Security Lab](https://github.com/tg3rbs/linux-security-lab)
 
 Bash-based Linux security auditing toolkit for inspecting SSH configuration, user privileges, filesystem permissions, system resources, and exposed network services.
