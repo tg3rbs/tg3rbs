@@ -8,6 +8,10 @@ Theoretical Mathematics student at The Ohio State University building cryptograp
 
 C++17 password manager implementing account authentication, PBKDF2 key derivation, AES-256-GCM encrypted credential vaults, secure password generation, and integrity verification.
 
+### [Kali–Ubuntu Security Homelab](https://github.com/tg3rbs/kali-ubuntu-security-homelab)
+
+Virtualized cybersecurity lab using Kali Linux, Ubuntu Server, and KVM/QEMU. Implemented SSH hardening, UFW firewall rules, Fail2ban intrusion prevention, and Nginx; developed Bash security auditing and automated Nmap scanning scripts to assess network exposure and validate security controls.
+
 ### [Pi-hole Network Security Lab](https://github.com/tg3rbs/pihole-network-security-lab)
 
 Raspberry Pi 4 network security lab using Pi-hole for DNS-level filtering and network monitoring, with hands-on Linux administration, SSH, DNS, Ethernet networking, and network troubleshooting.
