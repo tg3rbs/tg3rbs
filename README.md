@@ -12,6 +12,10 @@ C++17 password manager implementing account authentication, PBKDF2 key derivatio
 
 Repurposed a Windows 11 desktop into a dedicated Kali Linux cybersecurity workstation through a bare-metal OS installation. Deployed an Ubuntu Server virtual machine using KVM/QEMU and configured SSH key authentication, UFW firewall rules, Fail2ban intrusion prevention, and Nginx. Developed Bash security auditing and automated Nmap scanning scripts to assess network exposure, enumerate services, and validate firewall configurations.
 
+### [Web Application Security Lab](https://github.com/tg3rbs/web-application-security-lab)
+
+Virtualized web application security lab using Kali Linux, Ubuntu Server, Docker, and OWASP Juice Shop. Utilizes Burp Suite for HTTP traffic interception, request replay, security header inspection, and JSON API response analysis within a controlled lab environment.
+
 ### [Pi-hole Network Security Lab](https://github.com/tg3rbs/pihole-network-security-lab)
 
 Raspberry Pi 4 network security lab using Pi-hole for DNS-level filtering and network monitoring, with hands-on Linux administration, SSH, DNS, Ethernet networking, and network troubleshooting.
