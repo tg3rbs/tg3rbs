@@ -1,6 +1,6 @@
 # 33
 
-Theoretical Mathematics student at The Ohio State University building cryptography and security-focused software in C++, Python, and Bash.
+Theoretical Mathematics student at The Ohio State University focused on offensive security, red teaming, and cryptography. Building security tools and hands-on labs using C++, Python, Bash, and Linux.
 
 ## Featured Projects
 
@@ -45,5 +45,4 @@ Python toolkit implementing Caesar, Vigenère, Atbash, Affine, and Rail Fence ci
 **Tools:** Linux, Git, GitHub, OpenSSL, OpenSSH, Nmap
 
 ## Current Focus
-
-Developing deeper expertise in cryptography, Linux security, secure software development, and the mathematics underlying modern cryptographic systems.
+Developing practical expertise in offensive security, red teaming, penetration testing, and Linux security, while continuing to explore cryptography and the mathematical foundations of secure systems.
